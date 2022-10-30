@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnOoOzY
 - 👀 I’m interested in web development / software programming
-- 🌱 I’m currently learning HTML, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://twitter.com/SNOOZY_lmao / discord: Snoozy#1717 / email: lewis.kerr26@gmail.com
 
