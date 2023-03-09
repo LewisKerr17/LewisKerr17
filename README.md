@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnOoOzY
+- 👋 Hi, I’m @SnOoOzY (Lewis Kerr)
 - 👀 I’m interested in web development / software programming
 - 🌱 I’m currently learning Javascript, Typescript, PHP, SQL & Python
 - 💞️ I’m looking to collaborate on ...
