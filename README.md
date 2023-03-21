@@ -1,7 +1,7 @@
 SNOOZY
 (Lewis Kerr)
 
-====================================
+=====================================================================================
 
 Hey! One day I hope I'm able
 to study Computer Science full
@@ -15,9 +15,10 @@ in cyber security, full stack
 web development or AI).
 
 
+
 CONTACTS
 
-====================================
+=====================================================================================
 
 Twitter: https://twitter.com/SNOOZY_lmao
 
