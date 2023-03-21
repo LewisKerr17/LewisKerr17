@@ -1,6 +1,26 @@
-- 👋 Hi, I’m @SnOoOzY (Lewis Kerr)
-- 👀 I’m interested in web development / software programming
-- 🌱 I’m currently learning Javascript, Typescript, PHP, SQL & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://twitter.com/SNOOZY_lmao / discord: Snoozy#1717 / email: lewis.kerr26@gmail.com
-- 
+SNOOZY
+Lewis Kerr
+
+====================================
+
+Hey! One day I hope I'm able
+to study Computer Science full
+time @ University!
+
+I'm hoping I can work within
+the field of software development
+once my education endevours 
+are finished. (whether it be
+in cyber security, full stack
+web development or AI).
+
+
+CONTACTS
+
+====================================
+
+Twitter: https://twitter.com/SNOOZY_lmao
+
+Discord: Snoozy#1717
+
+Email: lewis.kerr26@gmail.com
