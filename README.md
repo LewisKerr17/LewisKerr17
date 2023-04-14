@@ -17,8 +17,7 @@ Hey! One day I hope I'm able to study Computer Science full time at University! 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img align="left" width="30px" style="padding-right:10px;" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png](https://pngimg.com/d/php_PNG7.png)"/>
-
+<img align="left" width="30px" style="padding-right:10px;" src="https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png"/>
 <br>
 
 # 
