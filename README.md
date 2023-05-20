@@ -26,4 +26,4 @@ Hey! One day I hope I'm able to study Computer Science full time at University! 
 
 ## Stats
 
-![SNOOZY's Github Stats](https://github-readme-stats.vercel.app/api?username=SnOoOzY&theme=github_dark)
+![SNOOZY's Github Stats](https://github-readme-stats.vercel.app/api?username=SnOoOzY&theme=maroongold)
