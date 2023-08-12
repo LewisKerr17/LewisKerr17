@@ -3,7 +3,7 @@ Lewis Kerr
 
 **'Student, aspiring software dev'**
 
-Hey! One day I hope I'm able to study Computer Science full time at University! I'm hoping I can work within the field of software development once my education endevours are finished. (whether it be in cyber security, full stack web development or AI).
+Hey! One day I hope I'm able to study Computer Scienceat University! I'm hoping I can work within the field of software development once my education endevours are finished. (whether it be in cyber security, full stack web development or AI).
 
 
 ## Languages & Tools
