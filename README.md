@@ -1,5 +1,4 @@
-# SNOOZY
-Lewis Kerr
+# Lewis Kerr
 
 **Student, aspiring Software Engineer**
 
