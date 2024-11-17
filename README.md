@@ -1,9 +1,8 @@
 # SNOOZY
 Lewis Kerr
 
-**'Student, aspiring software dev'**
+**Student, aspiring Software Engineer**
 
-Hey! One day I hope I'm able to study Computer Science at University! I'm hoping I can work within the field of software development once my education endevours are finished. (whether it be in cyber security, full stack web development or AI).
 
 
 ## Languages & Tools
