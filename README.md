@@ -24,4 +24,4 @@
 
 ## Stats
 
-![SNOOZY's Github Stats](https://github-readme-stats.vercel.app/api?username=SnOoOzY&theme=maroongold)
+![SNOOZY's Github Stats](https://github-readme-stats.vercel.app/api?username=LewisKerr17&theme=dark)
